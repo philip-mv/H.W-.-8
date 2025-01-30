@@ -1,14 +1,4 @@
 def calculate_power(base, exponent):
-    """
-    This function calculates the power of a base number raised to a given exponent. 
-    
-    Args:
-        base: The base number.
-        exponent: The exponent to raise the base to.
-    
-    Returns:
-        The result of base raised to the power of exponent.
-    """
     result = base ** exponent
     return result
 
